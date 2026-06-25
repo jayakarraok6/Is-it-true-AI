@@ -1,7 +1,8 @@
 # Is-it-true-AI
 AI powered misinformation and scam detection platform built using lovable AI
 Is It True AI is an AI-powered misinformation and scam detection platform designed to help users verify online content before trusting or sharing it.
-
+try it here:
+https://true-ui-builder.lovable.app
 It analyzes:
 
 News articles
